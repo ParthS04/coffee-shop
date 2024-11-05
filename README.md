@@ -6,11 +6,11 @@
 * *Date Created*: 03 11 2024
 * *Last Modification Date*: 05 11 2024
 * *Lab URL*: 
-* *Git URL*: <https://git.cs.dal.ca/soni1/csci-3172>
+* *Git URL*:
 
 ## Authors
 
-* [Parth Soni](pr223646@dal.ca)
+* [Parth Soni]
 
 ## Built With
 
